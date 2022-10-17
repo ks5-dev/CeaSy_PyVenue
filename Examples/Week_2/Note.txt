@@ -1,0 +1,6 @@
+Các ví dụ cho bài học về list, dict và string
+
+https://realpython.com/python-lists-tuples/ (và giới thiệu về cả list comprehension)
+https://realpython.com/python-dicts/
+https://realpython.com/python-strings/#modifying-strings
+
