@@ -1,3 +1,0 @@
-File để thực hành IO
-Dòng 2
-Dòng 3

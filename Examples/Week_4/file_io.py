@@ -40,7 +40,7 @@ print("---")
 
 lines = ["Learn Python\n", "Learn Computer\n", "Learn using PythonGeeks\n"]
 with open(file, 'w') as f:
-   print(f.writelines(lines))
+   f.writelines(lines)
 
 print("---")
 
