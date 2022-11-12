@@ -1,5 +1,7 @@
 ## TÀI LIỆU CHO SKC LỚP HỌC
 
+# Chào mừng các bạn cộng tác viên PyVenue lần này nhé
+
 Đây là những file code làm ví dụ, tài liệu hay bài tập sắp tới cho dự án CeaSy.
 
 Các nội dung hiện tại đã có đủ gần đủ ví dụ cho 4 buổi đầu
@@ -16,11 +18,11 @@ Học liệu chính cho 4 buổi đầu là:
 Buổi 5, 6 còn cần cân nhắc thêm vì đây là làm dự án, nó không có giới hạn nội dung (mà có giới hạn độ khó), quan trọng là sáng tạo và ứng dụng những gì đã được học là được. Các ví dụ cho phần này đang mang tính minh họa.
 
 Buổi 5, 6 có mục đích là ứng dụng từ những kĩ năng đó để học thêm cách làm các dự án khác, những ý tưởng hiện đang có:
- - Web scraping 
- - Làm ứng dụng có giao diện (GUI) như tkinter
- - Pygame: ứng dụng nhiều OOP để xây 1 con game arcade cổ điển.
+ - Web scraping: lấy dữ liệu từ Web để làm 1 app dự báo thời tiết
+ - Làm ứng dụng có giao diện (GUI) với tkinter để tạo ra 1 password generator hỗ trợ tạo mật khẩu
+ - Pygame: ứng dụng nhiều OOP để xây 1 con game arcade cổ điển. (đang tính làm Pacman nếu có đủ thời gian, nhưng mà trước mắt có thể làm 1 snake game đơn giản)
 
 Những chỉnh sửa sắp tới:
- - Bổ sung thêm bài tập
- - Hoàn thiện các ví dụ, đặc biệt là buổi 5,6 
  - Có đủ các comment bằng tiếng Việt, vì github này sẽ để  các học viên tham khảo.
+
+*Note: bài tập buổi 3 không phải là viết code nên trong Assignments không có gì đâu
