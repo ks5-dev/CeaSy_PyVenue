@@ -1,4 +1,4 @@
-# This program says hello and asks for my name.
+# Hướng dẫn về input / output cơ bản cho buổi 1 
 
 print('Hello world!')
 print('What is your name?') # ask for their name
