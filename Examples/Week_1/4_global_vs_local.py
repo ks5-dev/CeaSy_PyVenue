@@ -11,3 +11,4 @@ def ham():
 eggs = 42 # this is the global
 spam()
 print(eggs)
+

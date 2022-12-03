@@ -1,3 +1,12 @@
+def func():
+    print("Hello world")
+
+def func2(arg1, arg2):
+    print(arg1+arg2)
+
+def func3(arg1, arg2):
+    return arg1 + arg2
+
 def check_prime(n):
     if n == 0 or n == 1:
         return False
